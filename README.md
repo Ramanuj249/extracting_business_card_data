@@ -1,13 +1,9 @@
 # extracting_business_card_data
 
-Streamlit App Link ⬇️
-link will be posted soon
+Streamlit App Link:
+(https://ramanuj249-extracting-business-card-data-card-app-wjehf3.streamlit.app/)
 
-Refer to the guidelines for the project ⬇️
-
+Refer to the guidelines for the project:
 https://drive.google.com/file/d/1Svz1KBeOtSs6UVLAQnX69ga9qBxD9GW3/view?usp=sharing
-
-All the data and codes have been posted here after verification.
-You are free to check and use it.
 
 Thank you :)
